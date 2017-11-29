@@ -1,6 +1,6 @@
 # Reinforcement Learning @MVA
 
-Work done during the Reinforcement Learning course at the [MVA master](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)
+Assignments for the Reinforcement Learning course at the [MVA master](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)
 at [ENS Paris-Saclay](http://www.ens-cachan.fr/en).
 
 Here's a little description of the different files:
