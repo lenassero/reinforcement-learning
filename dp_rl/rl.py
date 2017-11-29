@@ -398,9 +398,9 @@ def compute_Qlearning(env, n, Tmax, epsilon, alpha):
                 # Add the rewards
                 cumulated_reward += reward
             else:
-                value_function = np.nanmax(Q, axis = 1)
+                value_function = np.nanmax(Q, axis=1)
                 value_functions.append(value_function)
-                greedy_policy = np.nanargmax(Q, axis = 1)
+                greedy_policy = np.nanargmax(Q, axis=1)
                 greedy_policies.append(greedy_policy)
                 cumulated_rewards.append(cumulated_reward)
                 break

@@ -15,7 +15,7 @@ from numpy.linalg import norm
 
 class MDP():
 
-    def __init__(self, X, A, P, R, discount_factor = 0.95):
+    def __init__(self, X, A, P, R, discount_factor=0.95):
         """ Define the MDP model.
 
         Parameters
